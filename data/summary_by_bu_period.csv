@@ -1,0 +1,51 @@
+business_unit,post_migration,vendor_category,total_txns,total_amount,dup_count,dup_rate
+BU_Central,0,Consulting,402,11184351.43,12,0.0299
+BU_Central,0,Facilities,138,751121.59,2,0.0145
+BU_Central,0,IT Services,431,18284144.29,20,0.0464
+BU_Central,0,Logistics,301,2309950.16,17,0.0565
+BU_Central,0,Office Supplies,197,544895.61,6,0.0305
+BU_Central,1,Consulting,410,10495030.709999999,19,0.0463
+BU_Central,1,Facilities,177,929469.59,16,0.0904
+BU_Central,1,IT Services,458,19061508.45,44,0.0961
+BU_Central,1,Logistics,295,2437599.87,7,0.0237
+BU_Central,1,Office Supplies,220,615208.78,8,0.0364
+BU_East,0,Consulting,379,10300789.14,6,0.0158
+BU_East,0,Facilities,144,805468.49,0,0.0
+BU_East,0,IT Services,428,17790510.47,9,0.021
+BU_East,0,Logistics,295,2398830.61,15,0.0508
+BU_East,0,Office Supplies,244,661156.22,7,0.0287
+BU_East,1,Consulting,388,10389168.42,5,0.0129
+BU_East,1,Facilities,138,722072.46,5,0.0362
+BU_East,1,IT Services,450,18908250.45,18,0.04
+BU_East,1,Logistics,307,2300170.22,10,0.0326
+BU_East,1,Office Supplies,234,646573.33,8,0.0342
+BU_North,0,Consulting,367,9583160.33,7,0.0191
+BU_North,0,Facilities,144,833196.28,1,0.0069
+BU_North,0,IT Services,450,18714860.05,13,0.0289
+BU_North,0,Logistics,321,2567059.63,18,0.0561
+BU_North,0,Office Supplies,235,629046.1,3,0.0128
+BU_North,1,Consulting,417,11523498.3,35,0.0839
+BU_North,1,Facilities,143,738952.03,11,0.0769
+BU_North,1,IT Services,520,21550501.63,115,0.2212
+BU_North,1,Logistics,315,2603799.67,43,0.1365
+BU_North,1,Office Supplies,245,684059.78,21,0.0857
+BU_South,0,Consulting,405,10877789.11,14,0.0346
+BU_South,0,Facilities,158,865479.06,3,0.019
+BU_South,0,IT Services,439,19044046.62,9,0.0205
+BU_South,0,Logistics,304,2272852.18,13,0.0428
+BU_South,0,Office Supplies,214,595323.5,11,0.0514
+BU_South,1,Consulting,371,10020421.64,38,0.1024
+BU_South,1,Facilities,141,745770.85,21,0.1489
+BU_South,1,IT Services,512,20093691.61,135,0.2637
+BU_South,1,Logistics,303,2545131.21,41,0.1353
+BU_South,1,Office Supplies,265,740809.44,28,0.1057
+BU_West,0,Consulting,382,10339990.01,15,0.0393
+BU_West,0,Facilities,133,739652.71,5,0.0376
+BU_West,0,IT Services,428,18158082.830000002,15,0.035
+BU_West,0,Logistics,285,2300037.72,11,0.0386
+BU_West,0,Office Supplies,231,609562.52,10,0.0433
+BU_West,1,Consulting,372,9632192.23,19,0.0511
+BU_West,1,Facilities,148,829826.66,4,0.027
+BU_West,1,IT Services,519,22720847.34,22,0.0424
+BU_West,1,Logistics,349,2961084.92,15,0.043
+BU_West,1,Office Supplies,235,645449.38,10,0.0426
