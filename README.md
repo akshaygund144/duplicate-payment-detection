@@ -204,14 +204,3 @@ The model flags $19.8M of $23.5M true duplicate exposure at 99.7% precision.
 - [scipy.stats.chi2_contingency](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html)
 - Oracle ERP AP data model — all figures, companies, and amounts in this project are **synthetic and fictional**.
 
----
-
-## 👤 Author
-
-**Akshay** — Senior Data Analyst, Eaton Technologies  
-M.Tech AI & ML, BITS Pilani (2026)  
-[github.com/akshaygund144](https://github.com/akshaygund144)
-
----
-
-*This project is part of a portfolio demonstrating production-grade data science, causal inference, and enterprise analytics capabilities.*
